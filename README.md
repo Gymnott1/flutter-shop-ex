@@ -20,6 +20,36 @@ samples, guidance on mobile development, and a full API reference.
 
 # Some Visuals
 
-![pic1](assets/images/shop1.png)
+
+![pic1](shop2.png)
+
+![pic1](shop3.png)
+
+![pic1](shop4.png)
+
+![pic1](shop5.png)
+
+![pic1](shop6.png)
+
+![pic1](shop7.png)
+
+
+![pic1](shop8.png)
+
+![pic1](shop9.png)
+
+![pic1](shop10.png)
+
+![pic1](shop11.png)
+
+![pic1](shop12.png)
+
+![pic1](shop13.png)
+
+![pic1](shop14.png)
+
+![pic1](shop15.png)
+
+![pic1](shop16.png)
 
 
