@@ -16,3 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # flutter-shop-ex
 # flutter-shop-ex
+
+
+# Some Visuals
+
+![pic1](/assets/images/shop1.png)
+
+
