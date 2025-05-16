@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Some Visuals
 
-![pic1](/assets/images/shop1.png)
+![pic1](assets/images/shop1.png)
 
 
